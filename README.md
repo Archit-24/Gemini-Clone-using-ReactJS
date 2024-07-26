@@ -2,6 +2,8 @@
 
 Gemini AI Clone is a web application designed to mimic the functionality of Gemini AI using React.js. This project showcases the capabilities of modern front-end development using React.js to create a responsive and interactive user interface. The application includes features such as real-time data processing, interactive user interactions, and a visually appealing design.
 
+![image](https://github.com/user-attachments/assets/49b7181c-c943-456b-9b87-e0d588f59cbc)
+
 ## Features
 - Real-time data processing and visualization
 - User authentication and authorization
